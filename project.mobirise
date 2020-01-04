@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Charlotte Blassel Portfolio",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -39,13 +39,19 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 47,
     "versionPublish": "4.11.4",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/briefcase.svg",
+    "": "on",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Portfolio",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
